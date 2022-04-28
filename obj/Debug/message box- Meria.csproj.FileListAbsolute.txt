@@ -1,0 +1,11 @@
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\bin\Debug\message box- Meria.exe.config
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\bin\Debug\message box- Meria.exe
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\bin\Debug\message box- Meria.pdb
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.csproj.AssemblyReference.cache
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message_box__Meria.Form1.resources
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message_box__Meria.Properties.Resources.resources
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.csproj.GenerateResource.cache
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.csproj.CoreCompileInputs.cache
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.exe
+C:\Users\Melody\source\repos\message box- Meria\message box- Meria\obj\Debug\message box- Meria.pdb
